@@ -10,10 +10,10 @@ body {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
-  background: rgba(188, 105, 138, 0.5);
-  background-image: radial-gradient(circle at bottom left, rgba(255, 255, 0, 0.9), rgba(255, 255, 0, 0) 70%),
-    radial-gradient(circle at top left, rgba(255, 0, 0, 1), rgba(255, 0, 0, 0) 70%),
-    radial-gradient(circle at center right, rgba(255, 0, 255, 0.8), rgba(255, 0, 255, 0) 50%);
+  background: rgba(255, 255, 255, 0.5);
+  background-image: radial-gradient(circle at bottom left, rgba(63, 63, 58, 0.9), rgba(255, 255, 0, 0) 70%),
+    radial-gradient(circle at top left, rgb(255, 255, 255), rgba(255, 0, 0, 0) 70%),
+    radial-gradient(circle at center right, rgba(0, 0, 0, 0.8), rgba(255, 0, 255, 0) 50%);
   background-size: 200% 200%;
   animation: movement 30s ease infinite alternate-reverse;
 }
@@ -43,7 +43,7 @@ article {
   color: white;
 
   /* From https://css.glass */
-  background: rgba(255, 255, 255, 0.06);
+  background: rgba(60, 39, 39, 0.06);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5.8px);
@@ -53,4 +53,24 @@ article {
 
 h1 {
   text-align: center;
+}
+
+.frame-1{
+
+  border-radius: 2%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0,5em;
+  margin-left: 2.7em;
+
+}
+
+.frame-2{
+
+  border-radius: 2%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0,5em;
+  margin-left: 2.6em;
+
 }

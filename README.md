@@ -3,6 +3,9 @@
 # Visitekaartje (Mugshot)
 Ik heb voor dit project mijn visitekaartje die ik eerder heb gemaakt verbeterd met node. Ik heb gekozen voor een mugshot. Daar staat alle informatie van mij op en ik vond het wel een leuk design.
 
+<img width="1596" alt="Scherm­afbeelding 2023-04-04 om 12 37 20" src="https://user-images.githubusercontent.com/112856687/229766789-2aa84f37-2a9c-4d45-825d-af83878363cd.png">
+
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)

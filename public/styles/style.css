@@ -19,8 +19,8 @@ body {
 
 article {
   padding: 1rem;
-  width: 40vw;
-  height: 22vw;
+
+
   background-color: white;
 
   /* /* From https://css.glass */
@@ -29,7 +29,17 @@ article {
   align-items: center;
 
  
+ 
+}
+
+.frames{
+  display: flex;
+  flex-flow: row wrap;
+  position:  center;
+  flex-wrap: nowrap;
+  align-items:center;
   
+
 }
 
 h1 {
@@ -45,7 +55,7 @@ h1 {
   align-items: center;
   justify-content: center;
   margin-top: 0,5em;
-  margin-left: 2.7em;
+  
 
 }
 
@@ -55,7 +65,7 @@ h1 {
   align-items: center;
   justify-content: center;
   margin-top: 0,5em;
-  margin-left: 2.6em;
+ 
 
 }
 

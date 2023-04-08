@@ -1,5 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+Deze staat niet meer live in cyclic, omdat ik er maar 3 tegelijk live kon zetten.
+
 # Visitekaartje (Mugshot)
 Ik heb voor dit project mijn visitekaartje die ik eerder heb gemaakt verbeterd met node. Ik heb gekozen voor een mugshot. Daar staat alle informatie van mij op en ik vond het wel een leuk design.
 

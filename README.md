@@ -32,6 +32,8 @@ Ik heb bij deze opdracht gebruik gemaakt van node, css, json en html. Ik heb htm
 
 ## Installatie
 
+Ik heb in mijn wiki staan hoe ik alles heb geinstalleerd voor deze opdracht
+
 ## Gebruik
 Je kan dit gebruiken om te laten zien in me portfolio en op de squadpage daar kan het aan gelinkt worden of gelijk laten zien.
 ## Bronnen

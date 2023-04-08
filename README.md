@@ -3,7 +3,7 @@
 # Visitekaartje (Mugshot)
 Ik heb voor dit project mijn visitekaartje die ik eerder heb gemaakt verbeterd met node. Ik heb gekozen voor een mugshot. Daar staat alle informatie van mij op en ik vond het wel een leuk design.
 
-<img width="1596" alt="Scherm­afbeelding 2023-04-04 om 12 37 20" src="https://user-images.githubusercontent.com/112856687/229766789-2aa84f37-2a9c-4d45-825d-af83878363cd.png">
+
 
 
 ## Inhoudsopgave
@@ -17,7 +17,7 @@ Ik heb voor dit project mijn visitekaartje die ik eerder heb gemaakt verbeterd m
 
 ## Beschrijving
 
-
+<img width="1596" alt="Scherm­afbeelding 2023-04-04 om 12 37 20" src="https://user-images.githubusercontent.com/112856687/229766789-2aa84f37-2a9c-4d45-825d-af83878363cd.png">
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
@@ -32,7 +32,8 @@ Ik heb bij deze opdracht gebruik gemaakt van node, css, json en html. Ik heb htm
 
 ## Installatie
 
-Ik heb in mijn wiki staan hoe ik alles heb geinstalleerd voor deze opdracht
+Ik heb in mijn wiki staan hoe ik alles heb geinstalleerd voor deze opdracht. 
+* [wiki](https://github.com/anoukbruinn/connect-your-tribe-profile-card/wiki/Analyseren%F0%9F%91%80) 
 
 ## Gebruik
 Je kan dit gebruiken om te laten zien in me portfolio en op de squadpage daar kan het aan gelinkt worden of gelijk laten zien.
